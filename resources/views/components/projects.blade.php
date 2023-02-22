@@ -1,4 +1,5 @@
  <!-- project-area -->
+            <span  id="projects" style="margin-bottom: 6rem;display: block;"></span>
             <section class="project-area">
                 <div class="container">
                     <div class="row align-items-center">

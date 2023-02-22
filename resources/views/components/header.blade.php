@@ -1,22 +1,26 @@
+ 
+ 
+ 
+ 
  <!-- header-area -->
         <header>
             <div id="sticky-header" class="menu-area transparent-header">
-                <div class="container">
+                <div class="container" style="direction: rtl;">
                     <div class="row">
                         <div class="col-12">
                             <div class="mobile-nav-toggler"><i class="fas fa-bars"></i></div>
                             <div class="menu-wrap">
                                 <nav class="menu-nav">
                                     <div class="logo">
-                                        <a href="index.html"><img src="assets/img/logo/logo.png" alt="Logo"></a>
+                                        <a href="/"><img src="assets/img/logo/logo.png" alt="Logo"></a>
                                     </div>
                                     <div class="navbar-wrap main-menu d-none d-lg-flex">
                                         <ul class="navigation">
-                                            <li><a href="/">Home</a></li>
-                                            <li><a href="about-us.html">About Us</a></li>
-                                            <li><a href="#services">Services</a></li>
-                                            <li><a href="#">Portfolio</a></li>
-                                            <li><a href="#">Blog</a></li>
+                                            <li><a href="/">الرئيسية</a></li>
+                                            <li><a href="#about">من نحن</a></li>
+                                            <li><a href="#services"> خدماتنا</a></li>
+                                            <li><a href="#projects">اعمالنا</a></li>
+                                            <li><a href="#blog">المدونة</a></li>
 
                                             {{-- <li class="menu-item-has-children"><a href="#">pages</a>
                                                 <ul class="sub-menu">
@@ -38,7 +42,8 @@
                                     </div>
                                     <div class="header-action">
                                         <ul class="list-wrap">
-                                            <li class="header-btn"><a href="#!" class="btn">Contact <span></span></a></li>
+                                            {{-- <li class="header-btn"><a href="#!" class="btn">تواصل معنا<span></span></a></li> --}}
+                                            <li class="header-btn"><a href="/contact" class="btn">تواصل معنا<span></span></a></li>
                                         </ul>
                                     </div>
                                 </nav>
@@ -72,7 +77,7 @@
                     </div>
                 </div>
 
-                <!-- header-contact -->
+                {{-- <!-- header-contact -->
                 <div class="header-contact-wrap">
                     <div class="container">
                         <div class="row">
@@ -157,7 +162,7 @@
                     </div>
                 </div>
                 <div class="body-contact-overlay"></div>
-                <!-- header-contact-end -->
+                <!-- header-contact-end --> --}}
             </div>
         </header>
         <!-- header-area-end -->

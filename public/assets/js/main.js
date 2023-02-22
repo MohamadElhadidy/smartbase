@@ -616,15 +616,15 @@ $('.team-item').hover(function () {
 /*=============================================
 	=          header btn active               =
 =============================================*/
-$(function () {
-	$(".header-btn").on('click', function () {
-		$('.header-contact-wrap, .body-contact-overlay').toggleClass("active");
-		$('body').toggleClass("fix");
-	});
-	$(".body-contact-overlay").on('click', function () {
-		$('.header-contact-wrap, .body-contact-overlay').removeClass("active");
-	});
-});
+// $(function () {
+// 	$(".header-btn").on('click', function () {
+// 		$('.header-contact-wrap, .body-contact-overlay').toggleClass("active");
+// 		$('body').toggleClass("fix");
+// 	});
+// 	$(".body-contact-overlay").on('click', function () {
+// 		$('.header-contact-wrap, .body-contact-overlay').removeClass("active");
+// 	});
+// });
 
 
 /*=============================================

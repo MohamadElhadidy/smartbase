@@ -65,7 +65,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="slider-shape-wrap">
+                <div class="slider-shape-wrap" >
                     <img src="/assets/img/slider/slider_shape01.png" alt="">
                     <img src="/assets/img/slider/slider_shape02.png" alt="">
                     <img src="/assets/img/slider/slider_shape03.png" alt="">

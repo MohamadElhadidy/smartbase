@@ -1,4 +1,5 @@
  <!-- about-area -->
+            <span  id="about" style="margin-bottom: 6rem;display: block;"></span>
             <section class="about-area">
                 <div class="container custom-container">
                     <div class="about-inner">

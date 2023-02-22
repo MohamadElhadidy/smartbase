@@ -1,6 +1,7 @@
    <!-- services-area -->
-            <section class="services-area pt-35 pb-95">
-                <div class="container" id="services">
+            <span  id="services" style="margin-bottom: 6rem;display: block;"></span>
+            <section class="services-area pt-35 pb-95" >
+                <div class="container">
                     <div class="row justify-content-center">
                         <div class="col-xl-3 col-lg-4 col-md-6 col-sm-10">
                             <div class="services-item wow fadeInUp" data-wow-delay=".2s">

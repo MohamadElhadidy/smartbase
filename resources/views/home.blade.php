@@ -1,7 +1,7 @@
 <x-layout>
   <x-hero/>
-  <x-services/>
   <x-about/>
+  <x-services/>
   <x-counter/>
   <x-projects/>
   <x-testimonial/>

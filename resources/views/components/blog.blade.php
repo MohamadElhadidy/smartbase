@@ -1,5 +1,5 @@
  <!-- blog-area -->
-            <section class="blog-area">
+            <section class="blog-area"  id="blog">
                 <div class="container">
                     <div class="row justify-content-center">
                         <div class="col-lg-6">
