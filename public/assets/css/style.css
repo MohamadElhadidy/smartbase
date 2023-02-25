@@ -3167,8 +3167,9 @@ label {
 	line-height: .8;
 	color: var(--tg-red);
 	margin-bottom: 12px;
-	display: flex;
-	align-items: center;
+	/* display: flex;
+	justify-content: center;
+	align-items: center; */
 }
 .counter-item-two .content > p {
 	color: var(--tg-granite-gray);

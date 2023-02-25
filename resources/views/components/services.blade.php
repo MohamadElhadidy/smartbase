@@ -9,8 +9,8 @@
                                     <img src="/assets/img/icon/services_icon01.png" alt="">
                                 </div>
                                 <div class="services-content">
-                                    <h4 class="title"><a href="services-details.html">UIUX Design</a></h4>
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                    <h4 class="title"><a href="services-details.html">تصميم
+الهوية التجارية</a></h4>
                                 </div>
                             </div>
                         </div>
@@ -20,8 +20,11 @@
                                     <img src="/assets/img/icon/services_icon02.png" alt="">
                                 </div>
                                 <div class="services-content">
-                                    <h4 class="title"><a href="services-details.html">Product Design</a></h4>
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                    <h4 class="title"><a href="services-details.html">
+تصميم
+المتاجر الإلكترونية
+</a>
+</h4>
                                 </div>
                             </div>
                         </div>
@@ -31,8 +34,8 @@
                                     <img src="/assets/img/icon/services_icon03.png" alt="">
                                 </div>
                                 <div class="services-content">
-                                    <h4 class="title"><a href="services-details.html">Website Design</a></h4>
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                    <h4 class="title"><a href="services-details.html">تصميم
+مواقع الشركات</a></h4>
                                 </div>
                             </div>
                         </div>
@@ -42,8 +45,8 @@
                                     <img src="/assets/img/icon/services_icon04.png" alt="">
                                 </div>
                                 <div class="services-content">
-                                    <h4 class="title"><a href="services-details.html">Branding Design</a></h4>
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                    <h4 class="title"><a href="services-details.html">تصميم
+مواقع نت</a></h4>
                                 </div>
                             </div>
                         </div>

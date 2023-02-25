@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Xolio - Creative Agency HTML5 Template</title>
+        <title>SmartBase</title>
         <meta name="description" content="Xolio - Creative Agency Template">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
